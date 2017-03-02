@@ -43,3 +43,4 @@ node -v
        534  git add .gitignore
         535  git status
         536  git add .
+        git commit -a  -m 'message'
