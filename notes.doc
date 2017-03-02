@@ -40,3 +40,6 @@ node -v
 
        GIT
        Initialized empty Git repository in C:/LocalDocuments/Programming/projects/ReactWeather/.git/
+       534  git add .gitignore
+        535  git status
+        536  git add .
