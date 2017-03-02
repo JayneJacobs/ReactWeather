@@ -37,9 +37,18 @@ node -v
        https://home.openweathermap.org/api_keys
 
 
-
        GIT
        Initialized empty Git repository in C:/LocalDocuments/Programming/projects/ReactWeather/.git/
        534  git add .gitignore
         535  git status
         536  git add .
+
+        ADD SSH KEYs for git
+  553  ssh-keygen -t rsa -b 4096 -C 'jaynejacobs@jaynejacobs.com'
+  554  eval "$(ssh-agent -s)"
+  555  ls -al ~/.ssh
+  556  ssh-add ~/.ssh/id_rsa
+  557   more  ~/.ssh/id_rsa.pub
+  558  less  ~/.ssh/id_rsa.pub
+  559  ssh -T git@github.com
+  560  history
