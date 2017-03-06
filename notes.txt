@@ -42,6 +42,9 @@ node -v
        534  git add .gitignore
         535  git status
         536  git add .
+ git remote add origin https://github.com/JayneJacobs/ReactWeather.git
+ git remote -v
+ git push -u origin master
 
         ADD SSH KEYs for git
   553  ssh-keygen -t rsa -b 4096 -C 'jaynejacobs@jaynejacobs.com'

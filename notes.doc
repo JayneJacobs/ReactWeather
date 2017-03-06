@@ -20,8 +20,7 @@ node -v
      474  cp desktop.ini $pwd/HelloReact
      475  cp desktop.ini $pwd/HelloReact/
      476  cp desktop.ini $pwd/HelloReact/desktop.ini
-     477  cp desktop.ini /c/LocalDocuments/Programming/projects/HelloReact/desktop.ini
-     478  cd HelloReact/
+     477  cp desktop.ini /c/LocalDocs
      479  ls
      480  cd HelloReact/
      481  node server.js
