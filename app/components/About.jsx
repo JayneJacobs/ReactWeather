@@ -12,7 +12,6 @@ var React = require('react');
          href="mailto:jaynejacobs@jaynejacobs.com">jaynejacobs@jaynejacobs.com</a></p>
 
      </div>
-
    )
  }
 module.exports = About;
