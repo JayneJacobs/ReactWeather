@@ -17,7 +17,6 @@ module.exports = {
       openWeatherMap: 'app/api/openWeatherMap.jsx'
     },
     extensions: ['', '.js', '.jsx']
-
   },
   module: {
     loaders: [
