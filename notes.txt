@@ -55,3 +55,30 @@ node -v
   558  less  ~/.ssh/id_rsa.pub
   559  ssh -T git@github.com
   560  history
+  489  git push heroku
+   490  git push heroku master
+   491  heroku open
+   492  git status
+   493  node server.js
+   git push
+ 478  heroku auth:whoami
+ 479  heroku login
+ 480  heroku auth:whoami
+ 481  heroku git:clone -a safe-island-69151
+ 482  heroku
+ 483  node server js
+ 484  git status
+ 485   git commit -a -m 'Prep repo for heroku'
+ 486  git push
+ 487  heroku create
+ 488  git remote -v
+ 489  git push heroku
+ 490  git push heroku master
+ 491  heroku open
+
+   494  git status
+   495   git commit -a -m 'Prep repo for herokucontinued'
+   496  git push
+   497  git push heroku master
+   498  heroku open
+   499  webpack -w
