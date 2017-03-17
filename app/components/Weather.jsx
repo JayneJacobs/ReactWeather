@@ -53,7 +53,7 @@ var Weather = React.createClass({
 
     function renderMessage () {
       if (isLoading) {
-        return <h3 className="text-center">Fetching current temperature please visit jaynejacobs.com...</h3>;
+        return <h3 className="text-center">Fetching current temperature..... please visit jaynejacobs.com...</h3>;
       } else if (temp && location) {
         return <WeatherMessage temp={temp} location={location}/>;
       }
