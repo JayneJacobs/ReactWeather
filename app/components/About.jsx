@@ -25,7 +25,7 @@ var About = (props) => {
         <p>Here are some of my sources:  </p>
 
               <li>
-                <a href='https://facebook.github.io/react'>JavaSript Framerwork</a>
+                <a href='https://facebook.github.io/react'>JavaScript Framework</a>
               </li>
 
               <li>
